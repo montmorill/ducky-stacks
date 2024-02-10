@@ -2,7 +2,7 @@
   "name": "vanilla",
   "setup": [
     {
-      "fn": "echo",
+      "action": "echo",
       "content": "[green]Ok, you has choose vanilla[/green]"
     }
   ]

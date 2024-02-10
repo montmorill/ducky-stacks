@@ -2,11 +2,11 @@
   "name": "npm-package",
   "setup": [
     {
-      "fn": "run",
+      "action": "run",
       "command": "npm init"
     },
     {
-      "fn": "select",
+      "action": "select",
       "options": [
         {
           "option": "Vanilla",
